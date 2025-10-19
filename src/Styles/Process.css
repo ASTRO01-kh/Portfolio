@@ -1,0 +1,31 @@
+* {
+  --black: rgb(51, 51, 51);
+  --blue: #66a1ee;
+}
+.Process-Title {
+  margin-top: 40px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#Title {
+  height: 32px;
+  font-family: "Poppins", sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+  color: var(--black);
+}
+#Subtitle {
+  margin-top: -1%;
+  height: 32px;
+  font-family: "Poppins", sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+  color: var(--blue);
+}
+.work-img {
+  height: 660px;
+  width: 1070px;
+  margin-left: 5%;
+}

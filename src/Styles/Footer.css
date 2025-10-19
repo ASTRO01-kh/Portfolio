@@ -1,0 +1,89 @@
+*{--black:rgb(51, 51, 51);}
+.footer{
+    height: 320px;
+    margin-top: 32px;
+    background-color: white;
+}
+.profile{
+    height: 56px;
+    width: 56px;
+    cursor: pointer;
+    margin-left: 200px;
+    margin-top: 64px;
+    background-color: #fff;
+    box-shadow:  0px 4px 24px #00000010,
+      -8px -8px 16px #ffffff;
+  }
+.description{
+    width: 437px;
+    font-size: 14px;
+    margin-top: 24px;
+    color: var(--black);
+    font-family: 'Poppins', sans-serif;
+    color: #777777;
+}
+.contacts{
+  margin-left: 200px;
+  height: 48px;
+}
+.contactsbtn{
+  height: 44px;
+  width: 240px;
+  position: absolute;
+  right: 200px;
+  margin-top: -56px;
+}
+.emailbtn{
+  height: 44px;
+  width: 44px;
+  cursor: pointer;
+  margin-left: 16px;
+  background-color: #fff;
+  box-shadow:  0px 4px 24px #00000010,
+    -8px -8px 16px #ffffff;
+}
+.linkedinbtn{
+  height: 44px;
+  width: 44px;
+  cursor: pointer;
+  margin-left: 16px;
+  background-color: #fff;
+  box-shadow:  0px 4px 24px #00000010,
+    -8px -8px 16px #ffffff;
+}
+.whatsappsbtn{
+  height: 44px;
+  width: 44px;
+  cursor: pointer;
+  margin-left: 16px;
+  background-color: #fff;
+  box-shadow:  0px 4px 24px #00000010,
+    -8px -8px 16px #ffffff;
+}
+.instagrambtn{
+  height: 44px;
+  width: 44px;
+  cursor: pointer;
+  margin-left: 16px;
+  background-color: #fff;
+  box-shadow:  0px 4px 24px #00000010,
+    -8px -8px 16px #ffffff;
+}
+
+.rights{
+    width: 437px;
+    font-size: 13px;
+    font-style: normal;
+    margin-left: 200px;
+    margin-top: 44px;
+    font-family: 'Poppins', sans-serif;
+    color: #8F90A6;
+}
+.signatur{
+  width: 437px;
+  font-size: 13px;
+  font-style: normal;
+  margin-left: 200px;
+  font-family: 'Poppins', sans-serif;
+  color: #8F90A6;
+}

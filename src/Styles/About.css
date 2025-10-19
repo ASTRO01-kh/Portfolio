@@ -1,0 +1,101 @@
+*{--black:rgb(51, 51, 51);}
+*{--text:rgb(101, 101, 101);}
+
+.top{
+    height: 48px;
+    margin-top: 32px;
+  }
+.btn-menu{
+    height: 48px;
+    width: 48px;
+    border: none;
+    position: fixed;
+    right: 200px;
+    cursor: pointer;
+    border-radius: 119px;
+    background: #ffffff;
+    box-shadow:  0px 4px 24px #00000010,
+             -8px -8px 16px #ffffff;
+  }
+
+  .btn-back{
+    height: 48px;
+    width: 48px;
+    border: none;
+    position: fixed;
+    left: 200px;
+    cursor: pointer;
+    border-radius: 119px;
+    background: #ffffff;
+    box-shadow:  0px 4px 24px #00000010,
+             -8px -8px 16px #ffffff;
+    box-shadow: 0px 4px 24px #00000010, -8px -8px 16px #ffffff;
+    transition-duration: 0.3s;
+    
+  }
+  .btn-back:hover{
+    background-color: #f1f1f1;
+   -webkit-transform: scale(1.1);
+   transform: scale(1.1);
+  }
+  .hi{
+    font-size: 32px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    background: linear-gradient(-2deg , #676767 , #DFDFDF);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    margin-left: 15%;
+    margin-top: 24px; 
+}
+.par1{
+    margin-left: 15%;
+    font-size: 20px;
+    color: var(--text);
+    font-family: 'Poppins', sans-serif;
+    width: 824px;
+}
+.par2{
+    margin-left: 15%;
+    font-size: 20px;
+    margin-top: 24px;
+    color: var(--text);
+    font-family: 'Poppins', sans-serif;
+    width: 824px;
+}
+.par3{
+    margin-left: 15%;
+    font-size: 20px;
+    margin-top: 24px;
+    color: var(--text);
+    font-family: 'Poppins', sans-serif;
+    width: 824px;
+}
+.par4{
+    margin-left: 15%;
+    font-size: 20px;
+    margin-top: 24px;
+    color: var(--text);
+    font-family: 'Poppins', sans-serif;
+    width: 824px;
+}
+.par5{
+    margin-left: 15%;
+    font-size: 20px;
+    margin-top: 24px;
+    color: var(--text);
+    font-family: 'Poppins', sans-serif;
+    width: 824px;
+}
+.Container1 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;  
+  }
+  
+  .center-image {
+    max-width: 900px;  
+    border-radius: 10px; 
+  }

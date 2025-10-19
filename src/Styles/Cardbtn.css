@@ -1,0 +1,28 @@
+*{--black:rgb(51, 51, 51);
+--blue:#66A1EE;
+}
+.Cardbtn{
+ position: absolute;
+    bottom: 100px;
+}
+.fa-arrow-right-long{
+    height: 16px;
+    width: 16px;
+    margin-left: 16px;
+    color: var(--blue);
+}
+.card-btn{
+    font-size: 16px;
+    font-family: 'Poppins',sans-serif;
+    color: var(--black);
+    background-color: white;
+    box-shadow:  0px 4px 24px #00000010,
+      -8px -8px 16px #ffffff;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 24px;
+    padding-right: 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 8px;
+}

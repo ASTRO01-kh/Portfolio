@@ -1,0 +1,52 @@
+* {
+  --black: rgb(51, 51, 51);
+}
+
+.Procontainer {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 16px;
+
+}
+.Weoneitdetails{
+  width: 80%;
+  position: relative;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 15%;
+    margin-top: 16px;
+}
+.weoneitdetails{
+    margin-left: 80px;
+    width: 70%;
+    font-size: 15px;
+    font-family: "Poppins", sans-serif;
+    font-weight: lighter;
+    color: var(--black);
+}
+.weoneitlogo {
+  width: 150px;
+}
+.Ibnsinadetails{
+  width: 80%;
+  position: relative;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 15%;
+    margin-top: 16px;
+}
+.ibnsinadetails{
+    margin-left: 80px;
+    width: 70%;
+    font-size: 15px;
+    font-family: "Poppins", sans-serif;
+    font-weight: lighter;
+    color: var(--black);
+}
+.Ibnsinalogo {
+  width: 150px;
+}
