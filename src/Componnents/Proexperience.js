@@ -1,5 +1,4 @@
 import "../Styles/Proexperience.css";
-import Weoneit from "/Users/s/Desktop/React apps/Portfolio/src/images/Weoneit.png";
 
 function Proexperience(props) {
   return (

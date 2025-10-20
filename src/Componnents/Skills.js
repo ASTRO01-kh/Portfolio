@@ -1,6 +1,6 @@
-import Figmalogo from "/Users/s/Desktop/React apps/Portfolio/src/images/Figmalogo.png";
-import Xdlogo from "/Users/s/Desktop/React apps/Portfolio/src/images/xdlogo.png";
-import Sketchlogo from "/Users/s/Desktop/React apps/Portfolio/src/images/sketchlogo.png";
+import Figmalogo from "../images/Figmalogo.png";
+import Xdlogo from "../images/xdlogo.png";
+import Sketchlogo from "../images/sketchlogo.png";
 
 import "../Styles/Skills.css";
 

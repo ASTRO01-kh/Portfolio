@@ -1,7 +1,7 @@
 import '../Styles/About.css';
 import Footer from "../Componnents/Footer";
 import Contact from "../Componnents/Contact";
-import AboutMe from "/Users/s/Desktop/React apps/Portfolio/src/images/About.png";
+import AboutMe from "../images/About.png";
 
 
 function About(){

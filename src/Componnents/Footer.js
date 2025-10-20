@@ -1,8 +1,8 @@
-import MyImage from "/Users/s/Desktop/React apps/Portfolio/src/images/profile.PNG";
-import gmailpic from "/Users/s/Desktop/React apps/Portfolio/src/images/gmail.png";
-import linkedinpic from "/Users/s/Desktop/React apps/Portfolio/src/images/linkedin.png";
-import whatsapppic from "/Users/s/Desktop/React apps/Portfolio/src/images/whatsapp.png";
-import instagrampic from "/Users/s/Desktop/React apps/Portfolio/src/images/instagram.png";
+import MyImage from "../images/profile.PNG";
+import gmailpic from "../images/gmail.png";
+import linkedinpic from "../images/linkedin.png";
+import whatsapppic from "../images/whatsapp.png";
+import instagrampic from "../images/instagram.png";
 
 import "../Styles/Footer.css";
 

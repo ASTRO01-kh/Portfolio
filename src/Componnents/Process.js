@@ -1,5 +1,5 @@
 import "../Styles/Process.css";
-import work from "/Users/s/Desktop/React apps/Portfolio/src/images/Work.png";
+import work from "../images/Work.png";
 
 function Process() {
   return (

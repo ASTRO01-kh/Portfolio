@@ -1,6 +1,6 @@
-import Masterlogo from "/Users/s/Desktop/React apps/Portfolio/src/images/Master.png";
-import Licencelogo from "/Users/s/Desktop/React apps/Portfolio/src/images/Licence.png";
-import Baclogo from "/Users/s/Desktop/React apps/Portfolio/src/images/Bac.png";
+import Masterlogo from "../images/Master.png";
+import Licencelogo from "../images/Licence.png";
+import Baclogo from "../images/Bac.png";
 
 import "../Styles/Education.css";
 

@@ -1,7 +1,7 @@
-import Branding from "/Users/s/Desktop/React apps/Portfolio/src/images/branding.png";
-import Brandinglogo from "/Users/s/Desktop/React apps/Portfolio/src/images/brandinglogo.png";
-import Wesselni from "/Users/s/Desktop/React apps/Portfolio/src/images/wesselni.png";
-import Wesselnilogo from "/Users/s/Desktop/React apps/Portfolio/src/images/wesselnilogo.png";
+import Branding from "../images/branding.png";
+import Brandinglogo from "../images/brandinglogo.png";
+import Wesselni from "../images/wesselni.png";
+import Wesselnilogo from "../images/wesselnilogo.png";
 import ProjectCard from "./ProjectCard";
 
 function Personalprojectscall() {

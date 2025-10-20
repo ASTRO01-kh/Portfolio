@@ -1,4 +1,4 @@
-import MyImage from "/Users/s/Desktop/React apps/Portfolio/src/images/profile.PNG";
+import MyImage from "../images/profile.PNG";
 import SwitchBtn from "./Switchbtn";
 import "../Styles/Topbar.css";
 

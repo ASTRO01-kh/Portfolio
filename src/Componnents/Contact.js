@@ -1,7 +1,7 @@
-import MyImage from "/Users/s/Desktop/React apps/Portfolio/src/images/profile.PNG";
-import linkedinpic from "/Users/s/Desktop/React apps/Portfolio/src/images/linkedin.png";
-import whatsapppic from "/Users/s/Desktop/React apps/Portfolio/src/images/whatsapp.png";
-import instagrampic from "/Users/s/Desktop/React apps/Portfolio/src/images/instagram.png";
+import MyImage from "../images/profile.PNG";
+import linkedinpic from "../images/linkedin.png";
+import whatsapppic from "../images/whatsapp.png";
+import instagrampic from "../images/instagram.png";
 import React, { useRef, useState } from "react";
 import "../Styles/Contact.css";
 import emailjs from "@emailjs/browser";

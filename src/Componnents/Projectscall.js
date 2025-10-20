@@ -1,8 +1,8 @@
-import MyImage from "/Users/s/Desktop/React apps/Portfolio/src/images/alien.png";
-import Aline from "/Users/s/Desktop/React apps/Portfolio/src/images/Aline.png";
-import Nftex from "/Users/s/Desktop/React apps/Portfolio/src/images/nftextention.png";
-import CasaWeb from "/Users/s/Desktop/React apps/Portfolio/src/images/Casa web.png";
-import Casalogo from "/Users/s/Desktop/React apps/Portfolio/src/images/Casa logo.png";
+import MyImage from "../images/alien.png";
+import Aline from "../images/Aline.png";
+import Nftex from "../images/nftextention.png";
+import CasaWeb from "../images/Casa web.png";
+import Casalogo from "../images/Casa logo.png";
 
 import ProjectCard from "./ProjectCard";
 
