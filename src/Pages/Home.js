@@ -37,10 +37,9 @@ function Home() {
       <Personalprojectscall />
       <Proexperience 
         exptext="I was fortunate enough to work as a UI/UX designer with the esteemed
-        Weoneit team for a fruitful five-month contract. I was introduced to
-        a dynamic work atmosphere and experienced individuals in the design
-        and development sectors, together with efficient managerial
-        supervision, throughout this enlightening encounter. The team's
+        Weoneit team. I was introduced to a dynamic work atmosphere and experienced
+        individuals in the design and development sectors, together with efficient
+        managerial supervision, throughout this enlightening encounter. The team's
         combined experience helped me advance professionally and gave me
         vital insight into the complexities of modern design techniques."
         companylogo={Weoneit}
